@@ -6,9 +6,6 @@
 
 :numbered:
 
-
-
-
 == Introduction
 
 Authored by : **_[green]#Praveen Kumar KS#_**
@@ -25,11 +22,11 @@ Users can also create _Data Science Pipelines_ to implement and automate model w
 
 *RHOAI bridges the gap between data science and engineering.*
 
-> **Obstacle 1**: Many AI models do not go beyond the training stages because the teams that train these models lack the tools to deploy, deliver, and maintain AI-based systems in production.
+> **Obstacle 1** : Many AI models do not go beyond the training stages because the teams that train these models lack the tools to deploy, deliver, and maintain AI-based systems in production.
 
 To solve this problem, RHOAI helps data scientists, developers and administrators to operationalize the lifecycle of AI models and bring those models to production.
 
-> **Obstacle 2**: AI practitioners often struggle with the myriad tools, libraries, and versions to maintain during the development and maintenance of AI-based applications. Additionally, significant efforts are required to configure GPU support and drivers.
+> **Obstacle 2** : AI practitioners often struggle with the myriad tools, libraries, and versions to maintain during the development and maintenance of AI-based applications. Additionally, significant efforts are required to configure GPU support and drivers.
 
 To solve this problem, RHOAI provides data scientists with functional ability to interact with the industry norms and standard tools of the AI/ML ecosystem.
 
@@ -206,15 +203,12 @@ After the model is available in production, application developers can develop a
 
 
 == Conclusion
-
-
-In this blog, you learned:
+In this short blog, you learned:
 
 * RHOAI helps teams bridge gap between data science and engineering, by operationalizing the lifecycle of AI projects.
 * RHOAI is based on the upstream open source Open Data Hub project.
 * RHOAI provides users with ready-to-use environments that include stable versions of the most common AI/ML tools.
 * Users can seamlessly run training pipelines, deploy, and monitor their models in production environments.
-
 
 
 ifdef::showscript[]
